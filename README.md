@@ -20,11 +20,6 @@ PINS:
 ```
 kPin_Addr0   = 66;
 kPin_Addr1   = 65;
-kPin_Addr10  = 15;
-kPin_Addr11  = 2;
-kPin_Addr12  = 56;
-kPin_Addr13  = 5;
-kPin_Addr14  = 55;
 kPin_Addr2   = 64;
 kPin_Addr3   = 63;
 kPin_Addr4   = 62;
@@ -33,6 +28,11 @@ kPin_Addr6   = 58;
 kPin_Addr7   = 57;
 kPin_Addr8   = 4;
 kPin_Addr9   = 3;
+kPin_Addr10  = 15;
+kPin_Addr11  = 2;
+kPin_Addr12  = 56;
+kPin_Addr13  = 5;
+kPin_Addr14  = 55;
 kPin_Data0   = 67;
 kPin_Data1   = 68;
 kPin_Data2   = 69;
