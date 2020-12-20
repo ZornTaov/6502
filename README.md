@@ -13,3 +13,5 @@ Not sure actually, you might get lucky and other stuff will work for you!  You j
 
 # Writing your bin file
 There are many different EEPROM writers to use.  I'm currently using an Arduino Mega 2560 with a modified version of https://github.com/JOliverasC/eeprom-writer to write to my EEPROM as shown below.
+
+![EEPROM writer](EEPROM%20writer.png)
