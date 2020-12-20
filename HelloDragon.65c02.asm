@@ -1,5 +1,5 @@
-.setting "DebugCommand", "cmd.exe /c start cmd.exe /c wsl.exe /mnt/d/Dev/6502/sims/x6502/x6502 /mnt/d/Dev/6502/HelloDragon.bin"
-.setting "LaunchCommand", "cmd.exe /c start cmd.exe /c wsl.exe /mnt/d/Dev/6502/sims/x6502/x6502 -r /mnt/d/Dev/6502/HelloDragon.bin"
+.setting "DebugCommand", "cmd.exe /c start cmd.exe /c wsl.exe /mnt/d/Dev/6502/x6502 /mnt/d/Dev/6502/HelloDragon.bin"
+.setting "LaunchCommand", "cmd.exe /c start cmd.exe /c wsl.exe /mnt/d/Dev/6502/x6502 -r /mnt/d/Dev/6502/HelloDragon.bin"
 
 .include "6522.asm"
 .org $8000

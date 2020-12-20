@@ -12,3 +12,4 @@ debug.txt
 debugcode.txt
 *.bin
 ignore/*
+x6502
