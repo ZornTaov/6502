@@ -1,0 +1,9 @@
+PORTB = $6000	// I/¯O Register "B"
+PORTA = $6001	// I/¯O Register "A"
+DDRB = $6002	// Data Direction Register "B"
+DDRA = $6003	// Data Direction Register "A"
+SR = $600a		// Shift Register
+ACR = $600b		// Auxiliary Control Register
+PCR = $600c		// Peripheral Control Register
+IFR = $600d		// Interrupt Flag Register
+IER = $600e		// Interrupt Enable Register
