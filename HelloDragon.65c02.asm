@@ -16,7 +16,7 @@ reset:
   txs 	   // push to stack
   cli
 
-  lda #$82
+  lda #(IER_SET | IER_CA2)
   sta IER
   lda #$00
   sta PCR
